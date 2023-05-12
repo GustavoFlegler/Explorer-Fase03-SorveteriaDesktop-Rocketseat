@@ -1,6 +1,6 @@
-### Learning Grid and Animations
+## Learning Grid and Animations
 
-##### On this project made on classes from Rocketseat i learn about:
+#### On this project i made, based on classes from Rocketseat:
 
 - Display: Grid
 - Animations, Transitions e some more about CSS
