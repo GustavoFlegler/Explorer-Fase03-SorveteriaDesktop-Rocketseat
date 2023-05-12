@@ -1,6 +1,6 @@
 ## Learning Grid and Animations
 
-#### On this class from Rockseat i learned about:
+#### On this class from Rocketseat i learned about:
 
 - Display: Grid
 - Animations, Transitions e some more about CSS
